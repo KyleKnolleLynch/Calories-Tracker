@@ -5,5 +5,4 @@
 * Javascript
 * Materialize CSS 
 * Font Awesome
-
-^WIP^
+* Uses Local Storage
