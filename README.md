@@ -2,7 +2,7 @@
 
 ### Built using...
 
-* Javascript
+* Javascript using the Module Pattern.
 * Materialize CSS 
 * Font Awesome
-* Uses Local Storage
+* Locally Stored
